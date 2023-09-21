@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalho como Assistente de Negócios 
 - 🌱 Estou estudando Javascript
-- 😄 Gosto muito tecnologia
+- 😄 Gosto muito de tecnologia
 - ⚡ Dev em formação
 
 <div style="display: inline_block"><br>
