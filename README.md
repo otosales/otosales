@@ -1,4 +1,5 @@
 ### Olá! Eu sou Oto Sales!
+<hr>
 
 - 🔭 Atualmente trabalho como Product Owner
 - 👨🏻‍🎓 Sou formado em Sistemas de Informação 
