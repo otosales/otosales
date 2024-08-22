@@ -1,6 +1,6 @@
 
 
-<h2> Olá! Eu sou Oto Sales! </h2>
+<h2> Olá, Rede 👋🏻 </h2>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/otosales)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/otosales/)
