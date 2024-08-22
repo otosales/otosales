@@ -24,3 +24,7 @@
 <a href="https://github.com/otosales">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otosales&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+<br><br><br>
+![Snake animation](https://github.com/seu-usuário-aqui/otosales/blob/output/github-contribution-grid-snake.svg)
+
