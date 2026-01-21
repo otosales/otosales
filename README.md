@@ -2,7 +2,7 @@
 
 <h2> Olá, Rede 👋🏻 </h2>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=600&lines=Desenvolvedor+Frontend+Júnior;JavaScript+%7C+HTML+%7C+CSS+%7C+NodeJS+%7C+GIT;Em+constante+evolução" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=600&lines=Desenvolvedor+FullStack+Júnior;JavaScript+%7C+HTML+%7C+CSS+%7C+NodeJS+%7C+GIT;Em+constante+evolução" />
 </p>
 
 Sou **Desenvolvedor Frontend Júnior** , formado em Sistemas de Informação focado em construir interfaces modernas e responsivas com boas práticas, semântica atuando com metodologias ágeis.
