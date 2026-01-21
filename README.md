@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=600&lines=Desenvolvedor+FullStack+Júnior;JavaScript+%7C+HTML+%7C+CSS+%7C+NodeJS+%7C+GIT;Em+constante+evolução" />
 </p>
 
-Sou **Desenvolvedor Frontend Júnior** , formado em Sistemas de Informação focado em construir interfaces modernas e responsivas com boas práticas, semântica atuando com metodologias ágeis.
+Sou **Desenvolvedor FullStack Júnior** , formado em Sistemas de Informação focado em construir interfaces modernas e responsivas com boas práticas, semântica atuando com metodologias ágeis.
 
 Atualmente estou estudando e aplicando meus conhecimentos em projetos reais para evoluir no desenvolvimento web.
 
@@ -37,4 +37,4 @@ Atualmente estou estudando e aplicando meus conhecimentos em projetos reais para
 
 ---
 
-⭐️ Estou sempre disposto a aprender, evoluir e colaborar. Sinta-se a vontade para explorar meus projetos e acompanhar meu crescimento como **Frontend Júnior**! Obrigado por visitar meu perfil! 
+⭐️ Estou sempre disposto a aprender, evoluir e colaborar. Sinta-se a vontade para explorar meus projetos e acompanhar meu crescimento como **FullStack Júnior**! Obrigado por visitar meu perfil! 
