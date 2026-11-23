@@ -37,4 +37,4 @@ Atualmente estou estudando e aplicando meus conhecimentos em projetos reais para
 
 ---
 
-⭐️ Estou sempre disposto a aprender, evoluir e colaborar. Sinta-se a vontade para explorar meus projetos e acompanhar meu crescimento como **FullStack Júnior**! Obrigado por visitar meu perfil! 
+⭐️ Estou sempre disposto a aprender, evoluir e colaborar. Sinta-se a vontade para explorar meus projetos e acompanhar meu crescimento como **Dev Júnior**! Obrigado por visitar meu perfil! 
